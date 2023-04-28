@@ -1,1 +1,10 @@
-
+.projects ul {
+    background-color: navy;
+    color: white;
+    display: flex;
+    text-decoration: none;
+    list-style-type: none;
+    justify-content: space-between;
+    align-items: center;
+    margin: 15px;
+}
